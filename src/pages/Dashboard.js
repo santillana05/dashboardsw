@@ -76,7 +76,7 @@ function Dashboard(props) {
                 <CardsHeader icono={<PublicIcon className={classes.iconos}/>} titulo="PAÍS" texto="Honduras" color="rgba(248,80,50,1)" font="white"/>
                 </Grid>
                 <Grid item xs={12} sm={4} md={4} lg={4} xl={4}>
-                <CardsHeader icono={<VideocamIcon className={classes.iconos}/>} titulo="CANTIDAD DE clases" texto="85" color="rgba(248,80,50,1)" font="white"/>
+                <CardsHeader icono={<VideocamIcon className={classes.iconos}/>} titulo="CANTIDAD DE VIDEOS" texto="85" color="rgba(248,80,50,1)" font="white"/>
                 </Grid>
 
                 <Grid container spacing={1} className={classes.container} xs={12} sm={12} md={6} lg={6} xl={6}>
